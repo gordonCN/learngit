@@ -7,4 +7,5 @@ end.
 creating a new branch is quick.
 add a new line.
 add another line.
-create a new line branch is quick & simple.
+create a new branch is quick and simple.
+
