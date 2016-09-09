@@ -5,5 +5,6 @@ git is free software distributed under the GPL.
 git add a statement.
 end.
 creating a new branch is quick.
-add a new line.
+dd a new line.
 add another line.
+create a new branch is quick and simple.
